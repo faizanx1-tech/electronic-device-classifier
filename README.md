@@ -50,6 +50,3 @@ Faizan
 ⭐ **Thank you for visiting my project!**
 
 This project demonstrates the practical use of AI and machine learning for image recognition.
-
-## Author
-Student AI Image Classification Project
