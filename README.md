@@ -26,6 +26,13 @@ It is trained to recognize and classify different types of electronic devices fr
 
 ## Model Training
 The model was trained using images of different electronic devices through Google Teachable Machine.
+1. Cassettes
+2. Keyboard
+3. Loudspeaker
+4. Microphone
+5. Remote Control
+6. Smartphone
+7. Television
 
 ## Project Purpose
 This project demonstrates the practical use of AI and machine learning for image recognition.
